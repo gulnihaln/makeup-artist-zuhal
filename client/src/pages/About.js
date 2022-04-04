@@ -3,10 +3,8 @@ const About = () => (
 		<div>
 			<h1>About</h1>
 			<p>
-				Starter kit for full-stack JavaScript projects. For more information,
-				see the wiki:
+				Basically we will be using this tenplate for deployment to Heroku. We can transfer our code from the other Github repo to here and hopefully it will work work. Thanks guys!
 			</p>
-			<a href="https://github.com/textbook/starter-kit/wiki">Wiki</a>
 		</div>
 	</main>
 );
